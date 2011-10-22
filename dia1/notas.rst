@@ -28,10 +28,6 @@ main es el nombre de la función que corre automáticamente cuando corres un pro
 Lo que está entre las llaves es el contenido de la función. En otras palabras, son las órdenes que se van a correr. 
 
 
-Operadores
-==========
-
-
 Manuales
 ========
 Los manuales de las librerías se encuentran en la sección 3 del manual. Ejemplo:
